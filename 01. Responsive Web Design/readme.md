@@ -1,1 +1,0 @@
-FreeCodeCamp project - Portfolio website
